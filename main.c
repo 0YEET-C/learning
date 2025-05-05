@@ -1,5 +1,6 @@
 #include <stdio.h>
 
 int main(){
-    printf("YEET");
+    char x[]="YEET";
+    printf("HOLLO %s");
 }
